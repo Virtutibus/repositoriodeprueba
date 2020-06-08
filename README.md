@@ -1,2 +1,2 @@
 # repositoriodeprueba
-Esto es un repositorio de prueba
+Este es un repositorio de pureba para aprender a realizar cambios y comentarlos.
